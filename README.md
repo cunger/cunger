@@ -1,11 +1,11 @@
 ### Hi, I'm Christina.
 
-I’m a software engineer in the middle of start-up roller coaster loopings at [Mercury.ai](https://mercury.ai). I have a background in research, and experience in application development, expert systems and formal methods. 
+I’m a software engineer in the middle of the start-up roller coaster at [Mercury.ai](https://mercury.ai). I have a background in research, and experience in application development, expert systems and formal methods. 
 
-**(Not so) random facts about me:** 
+**Pseudo-random facts about me:** 
 
-🐞 I love bug hunting.
+🐞 I really enjoy bug hunting.
+
+☢️ In my spare time (and energy), I study the fundamentals of nuclear engineering.
 
 🌊 My favourite places are underwater and outer space.
-
-☢️ When I'm not deep inside code, I study the fundamentals of nuclear engineering.
