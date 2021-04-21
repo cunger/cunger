@@ -1,9 +1,6 @@
-### Hi, I'm Christina.
-
-----
 
 I’m a programmer and technical writer, as well as an aspiring mathematician.
 
-**Interests:** [ 🌊, ☢️, 🚀, 🎯 ]
+**Interests:** [ 🌊, ☢️, 🚀, 🎯 , 📡 ]
 
 **Erdös number:** 4
