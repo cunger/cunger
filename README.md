@@ -1,3 +1,1 @@
-**Interests:** [ 🌊, ☢️, 🚀, 🎯 , 📡 ]
-
-**Erdös number:** 4
+Loading... 
