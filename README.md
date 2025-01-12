@@ -1,1 +1,3 @@
 Loading... 
+
+P.S. Looking for cool stickers? ✨ [Look no further.](https://ko-fi.com/sayitwithasticker/shop) 
