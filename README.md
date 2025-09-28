@@ -1,8 +1,15 @@
 
 🌍 🛰️ Software engineer at [OKAPI:Orbits](https://www.okapiorbits.space/).
 
-🛠️ Coding in Java (and sometimes Python, TypeScript, and Fortran). Interested in performance analysis and tuning, and in understanding and evolving complex legacy code bases.
+📎 Main interests:
+  * Software quality 
+  * Performance analysis and tuning
+  * Understanding and evolving complex legacy code bases
 
-📚 ☕ I love to spend my early mornings learning stuff, most preferably mathematics and Ada.
+🛠️ Languages: Java, Ada (and some Python, TypeScript, and Fortran) 
+
+📯 I'm deputy spokesperson of [Ada Germany](https://ada-deutschland.de/).
 
 ✨ I create and sell [stickers at Ko-Fi](https://ko-fi.com/sayitwithasticker/shop).
+
+📚 ☕ My favorite way to spend early mornings is learning mathematics.
