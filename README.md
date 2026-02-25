@@ -1,12 +1,12 @@
 
 🌍 🛰️ Software engineer at [OKAPI:Orbits](https://www.okapiorbits.space/).
 
-📚 ❤️ Main interests:
+📚 ☕ Main interests:
   * Understanding and evolving complex legacy code bases
   * Performance analysis and tuning
   * Mathematics
 
-☕ 🛠️ Languages: Java, Ada, Fortran
+🛠️ Languages: Java, Ada, Fortran
 
 📎 I'm active member of [Ada Germany](https://ada-deutschland.de/) and [Nuklearia](https://nuklearia.de/).
 
